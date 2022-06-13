@@ -5,4 +5,4 @@ Set a planned execution time in CET (or any other timezone) and the script waits
 
 -- Tested with Nifi 1.13.2
 
-!(https://github.com/geopator/nifi_templates/blob/main/delay_utc/img_utc_delay.png)
+![Delay UTC](img_utc_delay.png)
